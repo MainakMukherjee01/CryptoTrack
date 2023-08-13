@@ -17,10 +17,10 @@ const Footer = () => {
                         Social Media
                     </Heading>
                     <Button variant={'link'} colorScheme={'grey'} textTransform={'capitalize'}>
-                        <a href="https://www.linkedin.com/" target="blank" >linkedin</a>
+                        <a href="https://www.linkedin.com/in/mainak-mukherjee-975205273/" target="blank" >linkedin</a>
                     </Button>
                     <Button variant={'link'} colorScheme={'grey'} textTransform={'capitalize'}>
-                        <a href="https://github.com/" target="blank" >github</a>
+                        <a href="https://github.com/MainakMukherjee01" target="blank" >github</a>
                     </Button>
                     <Button variant={'link'} colorScheme={'grey'} textTransform={'capitalize'}>
                         <a href="https://www.instagram.com/" target="blank" >instagram</a>
