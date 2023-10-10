@@ -23,7 +23,7 @@ const Footer = () => {
                         <a href="https://github.com/MainakMukherjee01" target="blank" >github</a>
                     </Button>
                     <Button variant={'link'} colorScheme={'grey'} textTransform={'capitalize'}>
-                        <a href="https://www.instagram.com/" target="blank" >instagram</a>
+                        <a href="https://www.instagram.com/mainakmukherjee001" target="blank" >instagram</a>
                     </Button>
                 </VStack>
             </Stack>
